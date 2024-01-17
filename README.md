@@ -8,6 +8,6 @@ Estas querys foram desenvoldidas no banco de dados Postgresql. 🐘
 
 As tabelas foram modeladas utilizando a ferramenta datamodeler. 🔗
 
-![cover](/tabela.png)
+![cover](/tabelas.png)
 
 
